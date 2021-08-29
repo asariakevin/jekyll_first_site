@@ -5,4 +5,4 @@ title: About
 
 # About Me
 
-Kevin Asaria is interested in 
+Kevin Asaria is an avid programmer
